@@ -33,7 +33,7 @@ Here are some of the projects I've worked on:
 
 Please explore these projects to see my work and coding skills in action.
 
-Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) for any questions or collaboration opportunities.
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/yian-saechao-100640287/) for any questions or collaboration opportunities.
 
 Thank you for visiting my GitHub repository!
 

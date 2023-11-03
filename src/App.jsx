@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
-import profileImage from './assets/images/profilepic.jpg'
+import profileImage from './assets/images/profilepic.jpeg'
 
 function App() {
-  // const profileImage = './assets/images/profilepic.jpg';
+  // const profileImage = './assets/images/profilepic.jpeg';
   const linkedinProfile = 'https://www.linkedin.com/in/yian-saechao-100640287/';
+  const MyResume = 'https://docs.google.com/document/d/17F7N8jSfwJ2dRpk_mAlD9siMzOSbmGed/edit?usp=sharing&ouid=117805695497650742381&rtpof=true&sd=true'
   const WeatherApp = 'https://app-hosting-ghd2.onrender.com/';
   const ToDoList = 'https://yiansaechao.github.io/Final-MOD-Project/'
 
@@ -24,6 +25,11 @@ function App() {
         <div id="linkedin-link">
           <a href={linkedinProfile} target="_blank" rel="noopener noreferrer">
             Connect with me on LinkedIn
+          </a>
+        </div>
+        <div id='resume-link'>
+        <a href={MyResume} target="_blank" rel=" ">
+            Resume
           </a>
         </div>
         <div id="weather-app">
